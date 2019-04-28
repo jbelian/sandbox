@@ -1,5 +1,5 @@
 # sandbox
-Just a place I can put things
+
 
 ## FizzBuzz
 I started watching Tom Scott's video about FizzBuzz and wrote this up. Works, I guess.
